@@ -25,7 +25,7 @@ Knight Adventure is a 2D action-platformer built with the Unity Engine. Take con
 🚀 Installation
   Clone the repository:
   Bash
-  git clone https://github.com/[Your-Username]/Knight-Adventure.git
+  git clone https://github.com/yashpale26/Knight-Adventure.git
 
 Open in Unity:
   Launch the Unity Hub.
